@@ -1,0 +1,24 @@
+{
+  "name": "guid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "guid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vczero/guid.git"
+  },
+  "keywords": [
+    "guid",
+    "js guid",
+    "node guid"
+  ],
+  "author": "vczero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vczero/guid/issues"
+  },
+  "homepage": "https://github.com/vczero/guid"
+}

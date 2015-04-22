@@ -8,7 +8,7 @@ GUID
 **(1)guid_node.js** is used for node.js, so you can require this module in you node.js code.
 
 	//require this module (guid_node.js)
-	var guid = require('./guid_node');
+	var guid = require('./guid');
 	
 	//create a guid
 	var _guid = guid.create();
@@ -25,7 +25,7 @@ GUID
 			<title>guid</title>
 		</head>
 		<body>
-			<script type="text/javascript" src="guid.js"></script>
+			<script type="text/javascript" src="guid_js.js"></script>
 			<script type="text/javascript">
 				var _id = guid.create();
 				console.log(_id);
