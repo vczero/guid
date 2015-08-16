@@ -5,10 +5,13 @@ GUID
  + For example, I added a ObjectId(mongoDB) to this guid in my project.
 
 ####Quick start
-**(1)guid_node.js** is used for node.js, so you can require this module in you node.js code.
+**(1)lite-guid** is used for node.js, so you can require this module in you node.js code.
 
-	//require this module (guid_node.js)
-	var guid = require('./guid');
+![](npm.png)          
+<div style="color:#00C348; font-weight:bold">npm install lite-guid</div>
+
+	//require module
+	var guid = require('lite-guid');
 	
 	//create a guid
 	var _guid = guid.create();
