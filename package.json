@@ -1,6 +1,6 @@
 {
   "name": "lite-guid",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "description": "simple guid in node or browser client",
   "main": "index.js",
   "scripts": {

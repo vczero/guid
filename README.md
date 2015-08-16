@@ -4,11 +4,11 @@ GUID
  + You can add some special value in this guid, such as user's email or nickname or id.
  + For example, I added a ObjectId(mongoDB) to this guid in my project.
 
-####Quick start
+#### Quick start
 **(1)** in Node.js.
 
 	//require module
-	var guid = require('simple-guid');
+	var guid = require('lite-guid');
 	
 	//create a guid
 	var _guid = guid.create();
