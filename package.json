@@ -1,24 +1,24 @@
 {
-  "name": "guid",
+  "name": "lite-guid",
   "version": "1.0.0",
-  "description": "",
-  "main": "guid.js",
+  "description": "simple guid in node or browser client",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "example.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vczero/guid.git"
+    "url": "git+https://github.com/vczero/guid.git"
   },
   "keywords": [
-    "guid",
-    "js guid",
-    "node guid"
+    "simple",
+    "node",
+    "guid"
   ],
   "author": "vczero",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/vczero/guid/issues"
   },
-  "homepage": "https://github.com/vczero/guid"
+  "homepage": "https://github.com/vczero/guid#readme"
 }
