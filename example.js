@@ -1,5 +1,5 @@
 //require this module (guid_node.js)
-var guid = require('./guid_node');
+var guid = require('./index');
 
 //create a guid
 var _guid = guid.create();

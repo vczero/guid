@@ -5,10 +5,10 @@ GUID
  + For example, I added a ObjectId(mongoDB) to this guid in my project.
 
 ####Quick start
-**(1)guid_node.js** is used for node.js, so you can require this module in you node.js code.
+**(1)** in Node.js.
 
-	//require this module (guid_node.js)
-	var guid = require('./guid');
+	//require module
+	var guid = require('simple-guid');
 	
 	//create a guid
 	var _guid = guid.create();
